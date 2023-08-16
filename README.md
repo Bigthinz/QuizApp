@@ -16,6 +16,14 @@ The Quiz App is a web-based application that allows users to participate in a qu
 - Score calculation and feedback at the end of the quiz
 - Retry option to take the quiz again
 
+## Demo Screenshots
+
+![Screenshot 1](/public/pic1.png)
+_Caption for Screenshot 1_
+
+![Screenshot 2](/public/pic2.png)
+_Caption for Screenshot 2_
+
 ## Demo Video
 
 [![Quiz App Demo](/public/screenshot1.png)](/public/vid1.mov)
