@@ -24,6 +24,13 @@ export default {
           950: 'rgb(var(--tw-color-primary-950) / <alpha-value>)',
         },
         dark: '#222222',
+        btnColor:'#4770F4',
+        btnHoverColor: '#304AA2',
+        primaryText:'#2B3874',
+        lightGreen: '#99D7A5',
+        primaryGray:'#E5E9EF',
+        deepGreen:'#2D6E3E',
+        bgColor:'#F6F7FA',
       },
       keyframes: {
         flicker: {
